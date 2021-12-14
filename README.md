@@ -17,7 +17,10 @@
  </div> 
 
  <div>
-      <img align="right" alt="Jay" src="file:///home/usuario/Downloads/Jay-gif%20(1).mp4">
+  <img align="right" alt="Jay" src="
+
+https://user-images.githubusercontent.com/96129722/146091426-d08b72ad-1bb7-4ee6-95c0-3d21cd7d4fb6.mp">
+
  </div>
 
  
