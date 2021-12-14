@@ -17,10 +17,9 @@
  </div> 
 
  <div>    
-       <img align-"right" alt-"Jay-gif" src-"
-https://user-images.githubusercontent.com/96129722/146093270-6d72f3d1-be11-4436-8178-fadff14cb1f1.mp4 
-">
-  </div>
+  <img align-"right" alt-"Jay-gif" src-"blob:https://web.telegram.org/568e3c27-9e15-4897-bdb5-3e584166d8de">
+ </div>
+ 
  
 
  
