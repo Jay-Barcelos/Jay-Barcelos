@@ -16,9 +16,12 @@
   <a href="https://instagram.com/jainabarcelos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div> 
 
- <div>
-  <img align="right" alt="Jay" src="
- </div>
+ <div>    
+       <img align-"right" alt-"Jay-gif" src-"
+https://user-images.githubusercontent.com/96129722/146093270-6d72f3d1-be11-4436-8178-fadff14cb1f1.mp4 
+">
+  </div>
+ 
 
  
  
