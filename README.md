@@ -1,16 +1,46 @@
-### Hi there 👋
+## Oie eu sou a Jaina Barcelos ♡
+ 
+- 🌱  Atualmente  estou na faculd de Ciência da Computação;
+- 📫 jainabarcelos12@gmail.com
+- 😀 Pronouns: ela/dela
 
-<!--
-**Jay-Barcelos/Jay-Barcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/jay-barcelos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jay-barcelos&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-barcelos&layout=compact&langs_count=7&theme=aura"/>
+</div>
+  
+##
+  
+  <div>
+      <img align="right" alt="Jay" src="file:///home/usuario/Downloads/Jay-gif%20(1).mp4">
+  </div>
+  
+  ![Snake animation](https://github.com/jay-barcelos/jay-barcelos/blob/output/github-contribution-grid-snake.svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+ 
+    
+    
+    
+    
+    
+   
+                                       
+                                       
+                                       
+    
+    
+
+
+
+
+
+
+
+
+
+
