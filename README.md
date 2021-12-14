@@ -17,7 +17,7 @@
  </div> 
 
  <div>    
-  <img align-"right" alt-"Jay-gif" src-"blob:https://web.telegram.org/568e3c27-9e15-4897-bdb5-3e584166d8de">
+<img align = "right"  alt = "Jay-gif"  src = " blob:https://web.telegram.org/568e3c27-9e15-4897-bdb5-3e584166d8de ">
  </div>
  
  
