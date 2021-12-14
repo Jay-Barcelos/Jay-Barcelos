@@ -18,8 +18,9 @@
   
  <div> 
   <a href="https://instagram.com/jainabarcelos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </div>
- 
+  <a href="https://facebook.com/jainabarcelos" target="_blank"><img src="https://img.shields.io/badge/-facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+ </div> 
+
  
  
  
