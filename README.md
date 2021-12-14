@@ -17,8 +17,8 @@
  </div> 
 
  <div>
- <img align="right" alt="Jay" src="https://www.instagram.com/tv/CE0m5XJn3vEbPTneM5ScSwfwnNTK5N7N3800mc0/">
-</div>
+      <img align="right" alt="Jay" src="file:///home/usuario/Downloads/Jay-gif%20(1).mp4">
+ </div>
 
  
  
