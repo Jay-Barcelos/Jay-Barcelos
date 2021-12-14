@@ -12,18 +12,14 @@
   
 ##
   
-  <div>
-      <img align="right" alt="Jay" src="file:///home/usuario/Downloads/Jay-gif%20(1).mp4">
-  </div>
-  
  <div> 
   <a href="https://instagram.com/jainabarcelos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://facebook.com/jainabarcelos" target="_blank"><img src="https://img.shields.io/badge/-facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  </div> 
 
- 
- 
- 
+ <div>
+ <img align="right" alt="Jay" src="https://www.instagram.com/tv/CE0m5XJn3vEbPTneM5ScSwfwnNTK5N7N3800mc0/">
+</div>
+
  
  
   ![Snake animation](https://github.com/jay-barcelos/jay-barcelos/blob/output/github-contribution-grid-snake.svg)
