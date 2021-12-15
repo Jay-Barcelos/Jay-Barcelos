@@ -21,11 +21,6 @@ https://user-images.githubusercontent.com/96129722/146252310-56ec524b-cdd4-4e9a-
 
  
  
- ![download20211202153821](https://user-images.githubusercontent.com/96129722/146255119-a08830cb-eba8-442d-9e76-6a6b317fae74.png)
-
- 
- 
- 
   ![Snake animation](https://github.com/jay-barcelos/jay-barcelos/blob/output/github-contribution-grid-snake.svg)
 
  
