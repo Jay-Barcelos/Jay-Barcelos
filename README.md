@@ -14,7 +14,7 @@
   
  <div> 
   <a href="https://instagram.com/jainabarcelos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<img align = "right"  alt = "Jay-gif"  src = " https://cdn.discordapp.com/attachments/757374889232564345/920508263492124682/VID-20211214-WA0019.mp4 ">
+  <img align = "right" alt = "Rafa-pic" height = "150" style = "border-radius: 50px;" src = "https://cdn.discordapp.com/attachments/757374889232564345/920508263492124682/VID-20211214-WA0019.mp4">
  </div> 
 
   
