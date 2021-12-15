@@ -17,13 +17,9 @@
 </div>
   
 
-<div>
-<img align = "right" alt = "Jay-pic" height = "150" style = "border-radius: 50px;" src = "                                                                                        
+https://user-images.githubusercontent.com/96129722/146252310-56ec524b-cdd4-4e9a-a837-70c091d6e7d7.mp4
 
-https://user-images.githubusercontent.com/96129722/146251685-e3add30c-7439-40b4-9683-db214b1221d9.mp4
-</div>
-                                                                           
-                                                                                          
+ 
   ![Snake animation](https://github.com/jay-barcelos/jay-barcelos/blob/output/github-contribution-grid-snake.svg)
 
  
