@@ -16,21 +16,14 @@
   <a href="https://instagram.com/jainabarcelos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
+
 <div>
-<img align = "right" alt = "Jay-pic" height = "150" style = "border-radius: 50px;" src =
- "
+<img align = "right" alt = "Jay-pic" height = "150" style = "border-radius: 50px;" src = "                                                                                        
 
-https://user-images.githubusercontent.com/96129722/146250993-9ba8a23b-e553-4a5a-8ae9-a6146e254127.mp4
-
-
-
-
-
-
- 
-
- 
- 
+https://user-images.githubusercontent.com/96129722/146251685-e3add30c-7439-40b4-9683-db214b1221d9.mp4
+</div>
+                                                                           
+                                                                                          
   ![Snake animation](https://github.com/jay-barcelos/jay-barcelos/blob/output/github-contribution-grid-snake.svg)
 
  
